@@ -18,24 +18,24 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "adam.mohrbacher@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "bighead8806"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "https://www.linkedin.com/in/adammohrbacher/""
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: "https://students-bloc.slack.com/team/adammohrbacher"
   steam:
   tumblr:
   twitter:
-  wordpress:
+  wordpress: "adammohrbacher.com"
   youtube:
 
   # Scripts
