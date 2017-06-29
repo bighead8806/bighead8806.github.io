@@ -5,7 +5,7 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "Adam Mohrbacher"
+  title: Adam Mohrbacher
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -27,7 +27,7 @@ theme_settings:
   github: "bighead8806"
   google_plus:
   instagram:
-  linkedin:  "https://www.linkedin.com/in/adammohrbacher/""
+  linkedin:  "https://www.linkedin.com/in/adammohrbacher/"
   pinterest:
   reddit:
   soundcloud:
