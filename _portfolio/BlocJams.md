@@ -20,7 +20,7 @@ Bloc Jams is a project that challenges beginning developers to utilize the core 
 
 ## Solution
 
-The first step that was taken was to set up the basic HTML structure and CSS of the application, and establish the viewport and various media queries. Students must also employ the requisite Javascript, writing functions that, among other things, dynamically generate the album template and song row content, and establish play/pause functionality with event delegation, mouseover/mouseleave and click handlers. 
+The first step that was taken was to set up the basic HTML structure and CSS of the application, and establish the viewport and various media queries. Students must also employ the requisite Javascript, writing functions that, among other things, dynamically generate the album template and song row content and establish play/pause functionality with event delegation, mouseover/mouseleave and click handlers. 
 
 Students must also create and style the music player player bar, and utilize jQuery to handle different functions that allow listeners to skip from one song to another, while also updating the player bar with the new song information.
 
@@ -34,7 +34,7 @@ The final product is an application with three pages. Students can check out an 
 
 ## Conclusion
 
-The major parts of the application worked as they were intended to work. I personally had doubts about my overall competance to put together the projects various aspects, but was able to overcome difficulties with the assistance of my mentor. 
+The major parts of the application worked as they were intended to work. I personally had doubts about my overall competance to put together the project's various aspects but was able to overcome difficulties with the assistance of my mentor. 
 
 I found the complexity of certain processes to be somewhat surprising. For example, the process of playing/pausing different songs was startlingly multi-faceted, involving play and pause button templates, mouseover event listeners, mouseleave event and clickhandlers. 
 
