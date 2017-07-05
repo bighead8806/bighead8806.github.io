@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocFlix
+title: BlocJams
 thumbnail-path: "img/BlocJams.landingpage.png"
 short-description: Bloc Jams is a digital music player, allowing users to play their favorite tunes.
 
