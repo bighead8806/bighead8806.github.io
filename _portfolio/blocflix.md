@@ -20,21 +20,23 @@ Bloc Jams is a project that challenges beginning developers to utilize the core 
 
 ## Solution
 
-The first step students must take is to set up the basic HTML structure of the application, including a header and a subheader, in addition to the application's main selling points. After this, students move into styling the landing page, the navigation bar and the navigation bar logo. Other steps that need to be taken in this early section of the project include styling the selling points and establishing the viewport and various media queries. 
+The first step that was taken was to set up the basic HTML structure and CSS of the application, and establish the viewport and various media queries. Students must also employ the requisite Javascript, writing functions that, among other things, dynamically generate the album template and song row content, and establish play/pause functionality with event delegation, mouseover/mouseleave and click handlers. 
 
-Some of the other major components that need to be created in the project's early stages are ```collection.html``` and ```collection.css```, and ```album.html```and ```album.css```.  CSS transitions have to be added to the application's selling points and then one moves into working with the application's requisite Javascript. Students must create a ```landing.js``` file, in addition to creating a myriad of different functions such as ```window.onload = function()``` and  ```var pointsArray = document.getElementsByClassName('point');```.
+Students must also create and style the music player player bar, and utilize jQuery to handle different functions that allow listeners to skip from one song to another, while also updating the player bar with the new song information.
 
+Functionality needs to be added to allow users to manipulate the seek bar and the volume bar. Students are also required to utilize the buzz music library.
 
-
+Lastly, students must utilize jQuery to refractor certain functions with jQuery like ```window.onload``` and ```animatepoints```, and ```collection.js``` and ```album.js```.
 
 ## Results
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-> Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+The final product is an application with three pages. Students can check out an album, play and pause its different songs, switch between different songs, skip to different parts of an individual song using the seek bar and manipulate the volume of each song. 
 
 ## Conclusion
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+The major parts of the application worked as they were intended to work. I personally had doubts about my overall competance to put together the projects various aspects, but was able to overcome difficulties with the assistance of my mentor. 
+
+I found the complexity of certain processes to be somewhat surprising. For example, the process of playing/pausing different songs was startlingly multi-faceted, involving play and pause button templates, mouseover event listeners, mouseleave event and clickhandlers. 
+
+I learned a number of things over the course of this project, primarily how HTML, CSS and Javascript work together, and how jQuery can be used to simplify vanilla Javascript. In the future, I am sure that I will be able to use these experiences to increase the interactivity of other similar applications.  
+
