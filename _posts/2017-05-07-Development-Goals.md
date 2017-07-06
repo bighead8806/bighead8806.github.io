@@ -2,58 +2,15 @@
 layout: post
 title: "My Development Goals"
 Date: 2017-05-07
-feature-img: "img/AdamRunning.jpg"
+feature-img: 
 ---
 
 My goals as a frontend developer are different from what I would assume are the goals of a majority of Bloc students. I am not 100% committed to switching my career to development following the completion of the Bloc program. 
 
 That is not to say that I am not committed to learning as much as I can or that the skills I learn at Bloc will be incompatable in some way with my current vocation and long-term goals. 
 
-I currently work in communications, a field that is reflective of my educational history and training. 
+I currently work in communications, a field that is reflective of my educational history and training. One aspect of my job is managing my employer's website. I am required to write and manipulate HTML and have some ability to read Javascript. I hope that through the completion of my work in the Bloc program my capacity to handle these two responsibilities will be strengthened.
 
-Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
+I also hope to be able to retain some of the new information that I have learned thus far through the Bloc program. Although I hardly feel that I have mastered it, my understanding of languages like Javascript has grown exponentially since I started my work with Bloc. My goal is to find a professional position that allows me to continue using and reinforcing this knowledge-base. 
 
-Tables have also been extended from Markdown:
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-Here's an example of an image, which is included using Markdown:
-
-![Geometric pattern with fading gradient]({{ site.baseurl }}/img/blocflix.png)
-
-Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Pygments by default.
-
-{% highlight js %}
-// count to ten
-for (var i = 1; i <= 10; i++) {
-    console.log(i);
-}
-{% endhighlight %}
-
-{% highlight ruby %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
-
-{% highlight js %}
-// count to twenty
-var j = 0;
-while (j < 20) {
-    j++;
-    console.log(j);
-}
-{% endhighlight %}
-
-Type Theme uses KaTeX to display maths. Equations such as $$S_n = a \times \frac{1-r^n}{1-r}$$ can be displayed inline.
-
-Alternatively, they can be shown on a new line:
-
-$$ f(x) = \int \frac{2x^2+4x+6}{x-2} $$
+I suppose to be completely honest a final hope/goal that I have in regarding learning web development is that this skill set might open up additional employment options for me. I am by no means a fan of the traditional work schedule and all that it entails. I would love the ability some day to work independently as a freelancer and have more control over my time and schedule.  
