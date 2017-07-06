@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Markdown and HTML
+title: "My Development Goals"
+Date: 2017-05-07
+feature-img: "img/AdamRunning.jpg"
 ---
+
+My goals as a frontend developer are different from what I would assume are the goals of a majority of Bloc students. 
 
 Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
