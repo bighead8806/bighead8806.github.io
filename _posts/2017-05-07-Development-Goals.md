@@ -2,7 +2,7 @@
 layout: post
 title: "My Development Goals"
 Date: 2017-05-07
-feature-img: 
+feature-img: "img/sample_feature_img.png"
 ---
 
 My goals as a frontend developer are different from what I would assume are the goals of a majority of Bloc students. I am not 100% committed to switching my career to development following the completion of the Bloc program. 
