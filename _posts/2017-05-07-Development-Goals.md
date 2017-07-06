@@ -5,7 +5,11 @@ Date: 2017-05-07
 feature-img: "img/AdamRunning.jpg"
 ---
 
-My goals as a frontend developer are different from what I would assume are the goals of a majority of Bloc students. 
+My goals as a frontend developer are different from what I would assume are the goals of a majority of Bloc students. I am not 100% committed to switching my career to development following the completion of the Bloc program. 
+
+That is not to say that I am not committed to learning as much as I can or that the skills I learn at Bloc will be incompatable in some way with my current vocation and long-term goals. 
+
+I currently work in communications, a field that is reflective of my educational history and training. 
 
 Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 
