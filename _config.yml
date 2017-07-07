@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://bighead8806.github.io" 
+url: "http://adammohrbacher.site" 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
