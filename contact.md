@@ -11,7 +11,7 @@ Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. K
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://adammohrbacher.site/' />
   <input type='text' name='name' placeholder='Your Full Name' />
-  <input type='email' name='email' placeholder='adam.mohrbacher@gmail.com' />
+  <input type='email' name='email' placeholder='Write your email...' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
